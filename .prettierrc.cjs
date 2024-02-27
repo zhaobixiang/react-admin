@@ -10,6 +10,7 @@ module.exports = {
     arrowParens: 'always',
     requirePragma: false,
     insertPragma: false,
+    htmlWhitespaceSensitivity: "ignore",
     endOfLine: 'auto',
     embeddedLanguageFormatting: 'auto',
 }
